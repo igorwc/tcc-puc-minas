@@ -15,8 +15,9 @@
   - [notebooksHTML](https://github.com/igorwc/tcc-puc-minas/tree/master/notebooksHTML) - Os notebooks Jupyter no formato HTML para visualização
    
   Onde encontrar os datasets:
-    - [TMDB](https://www.kaggle.com/tmdb/tmdb-movie-metadata) 
-    - [Movielens](https://grouplens.org/datasets/movielens/25m) 
+   - [TMDB](https://www.kaggle.com/tmdb/tmdb-movie-metadata) 
+
+   - [Movielens](https://grouplens.org/datasets/movielens/25m) 
 
   
 
